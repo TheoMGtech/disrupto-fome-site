@@ -8,7 +8,7 @@ Este projeto é um site de reportagem interativo e de página única que explora
 
 O site foi desenvolvido como parte de um trabalho escolar para a matéria de "Disrupto", com o objetivo de conscientizar sobre a complexidade da fome, abordando desde suas definições técnicas até suas raízes sociais, políticas e econômicas.
 
-🔗 **[Acesse a versão ao vivo do projeto aqui!](https://seu-link-da-vercel.com)** 
+🔗 **[Acesse a versão ao vivo do projeto aqui!](https://disrupto-fome-site.vercel.app/)** 
 
 ## 📚 Tópicos Abordados na Reportagem
 
